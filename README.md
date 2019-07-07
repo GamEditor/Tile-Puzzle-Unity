@@ -9,3 +9,5 @@ A tile puzzle made with unity
 
 <b>Attention</b>
 * For build the project for android, make sure using the Android SDK, NDK and also use the OpenJDK installed with unity. this will build project without any problem.
+
+![Demo of gameplay](http://s9.picofile.com/file/8365904942/Tile_Puzzle_Unity_Demo.gif)
