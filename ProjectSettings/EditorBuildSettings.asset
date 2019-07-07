@@ -22,9 +22,6 @@ EditorBuildSettings:
     guid: 7485369270761ab4e902a6d4a0cb888b
   - enabled: 1
     path: Assets/Puzzle Game/Scenes/Menu of Levels/Actors.unity
-    guid: ff0c029036318d841b4551624f06a0b9
-  - enabled: 1
-    path: Assets/Puzzle Game/Scenes/Menu of Levels/Actors.unity
     guid: 3ed2222206090134da1b9bde81c7cca0
   - enabled: 1
     path: Assets/Puzzle Game/Scenes/Menu of Levels/Wild Life.unity
